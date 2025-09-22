@@ -7,6 +7,10 @@
 
 ## About Me :
 
+<div>
+  <h2 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Bmb2w2dmxrNDV4cXZwcmVsNngyaDNyaDBlN2Vlc3o4cGFuaG5tcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" </h2>
+</div>
+
 - 🎓 I am currently studying as a **Full Stack Developer** at CEI SEVILLA
 - ✌ I am 24 Yrs.
 - 🏡'Lives in **Sevilla, Spain**
