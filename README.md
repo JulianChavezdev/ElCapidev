@@ -45,5 +45,5 @@
 
 <br>
 
-<img src="[[[https://img.icons8.com/color/48/000000/html-5--v1.png](https://th.bing.com/th/id/OIP.7nS4PC820yi2tAWacInldQHaHa?w=173&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3)](https://th.bing.com/th/id/R.ee74b83c2f36d328b6b4059a7089e575?rik=zNJH4q0zy4EEuQ&pid=ImgRaw&r=0](https://logospng.org/download/adobe-premiere-pro/logo-premiere-pro-1024.png))"/>
+<img src="https://logospng.org/wp-content/uploads/premiere-pro.png"/>
 
