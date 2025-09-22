@@ -33,21 +33,6 @@
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
-<br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElCapidev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![ElCapidev GitHub stats](https://github-readme-stats.vercel.app/api?username=ElCapidev&theme=algolia)](https://github.com/ElCapidev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElCapidev&theme=algolia)](https://github.com/ElCapidev/github-readme-stats) [![ElCapidev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElCapidev&theme=algolia)](https://github.com/ElCapidev/github-readme-stats)
-
-<br>
-
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ElCapidev)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
 
 <br>
 
@@ -55,10 +40,6 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Elcapidev&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
-
-Last edited on: 30/06/2022
