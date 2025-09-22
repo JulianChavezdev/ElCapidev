@@ -1,8 +1,7 @@
 <div align="center" width="50">
 
 </div>
-<h1 align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpkVGGIxucTijeWOBM1sk_TsqU716Bw4UfJpbc8Xog3P6u-U_bTFpzw55Un5SQBn_bn2nwgd09sv3HJdOOgQp5FQKtNlfy-ciFZjONKv_eu0M2wnH12cAO5EXDe584yX8fouvjuPzsq1-rMrB16KAMf-ly3U7z38GxdTQfBzpzo-ri6mzOunXZpvLk/s700/programacion_gamer_001.gif" width="100
-                        ">HI, I'm Julian Chavez.</h1>
+<h1 align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpkVGGIxucTijeWOBM1sk_TsqU716Bw4UfJpbc8Xog3P6u-U_bTFpzw55Un5SQBn_bn2nwgd09sv3HJdOOgQp5FQKtNlfy-ciFZjONKv_eu0M2wnH12cAO5EXDe584yX8fouvjuPzsq1-rMrB16KAMf-ly3U7z38GxdTQfBzpzo-ri6mzOunXZpvLk/s700/programacion_gamer_001.gif" width="100"> HI, I'm Julian Chavez.</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/ElCapidev?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/ElCapidev?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ElCapidev.repoName) <img src="https://komarev.com/ghpvc/?username=ElCapidev" alt="ElCapidev" />
 
