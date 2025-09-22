@@ -21,7 +21,7 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## Im Trying to be good at🧑‍💻 :
 
 <br>
 
