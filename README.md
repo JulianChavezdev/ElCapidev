@@ -25,7 +25,7 @@
 
 <br>
 
-## Im Trying to be good at🧑‍💻 :
+## Im Studying THIS🧑‍💻 :
 
 <br>
 
@@ -40,10 +40,8 @@
 
 <br>
 
-## Activity Graph 📊 :
+## Im good AT 🧑‍💻 :
+
+<img src="[https://img.icons8.com/color/48/000000/html-5--v1.png](https://th.bing.com/th/id/OIP.7nS4PC820yi2tAWacInldQHaHa?w=173&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3)"/>
 
 <br>
-
-[![julian's github activity graph](https://activity-graph.herokuapp.com/graph?username=Elcapidev&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ElCapidev/github-readme-activity-graph)
-
-
