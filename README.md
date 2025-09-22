@@ -17,7 +17,7 @@
 
 <br>
 
-[![Elcapinoesfit](https://img.icons8.com/fluency/48/000000/instagram-new.png "Elcapinoesfit")](https://www.instagram.com/elcapinoesfit/) [![@643663194](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@643663194")](tel:643663194) [![@julicgavez1@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@julicgavez1@gmail.com")](julicgavez1@gmail.com)
+[![@julicgavez1@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@julicgavez1@gmail.com")](julicgavez1@gmail.com)
 
 <br>
 
